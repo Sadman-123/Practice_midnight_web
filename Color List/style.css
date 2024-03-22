@@ -1,0 +1,25 @@
+.box button{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.box{
+    text-align: center;
+}
+.box input{
+    padding: 10px;
+    border-radius: 5px;
+}
+.box h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

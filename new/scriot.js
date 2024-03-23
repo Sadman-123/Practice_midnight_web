@@ -1,6 +1,6 @@
 let Ab =()=>
 {
-   console.log('object');
+   console.log('Hello World');
 }
 
 Ab()
